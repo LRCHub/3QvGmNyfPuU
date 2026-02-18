@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Dead Leaf",
+  "base_artist": "星野 源",
+  "createdAt": "2026-02-18T20:56:56.844700Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Curl Up Like a Dead Leaf and Go Where the Wind Blows",
+      "artist": "Bombay Bicycle Club",
+      "has_synced": true,
+      "path": "select/01_Curl_Up_Like_a_Dead_Leaf_and_Go_Where_the_Wind_Blows_Bombay_Bicycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dead Leaf",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/02_Dead_Leaf_星野源.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dead Leaf Echo",
+      "artist": "Faith and the Muse",
+      "has_synced": false,
+      "path": "select/03_Dead_Leaf_Echo_Faith_and_the_Muse.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dead Leaf",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/04_Dead_Leaf_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Dead Leaf Echo",
+      "artist": "Novembers Doom",
+      "has_synced": true,
+      "path": "select/05_The_Dead_Leaf_Echo_Novembers_Doom.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Dead Heart - 2007 Remastered",
+      "artist": "Midnight Oil",
+      "has_synced": true,
+      "path": "select/06_The_Dead_Heart_-_2007_Remastered_Midnight_Oil.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dead-Beat",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/07_Dead-Beat_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dead Beat",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/08_Dead_Beat_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bela Lugosi’s Dead",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/09_Bela_Lugosi’s_Dead_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dead Air",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/10_Dead_Air_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dead Horses",
+      "artist": "The Local Honeys",
+      "has_synced": false,
+      "path": "select/11_Dead_Horses_The_Local_Honeys.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dead Man's Curve",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/12_Dead_Man's_Curve_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Downtown's Dead",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/13_Downtown's_Dead_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Still Not Dead",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/14_Still_Not_Dead_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "She's Not Dead",
+      "artist": "Suede",
+      "has_synced": true,
+      "path": "select/15_She's_Not_Dead_Suede.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dead Fox",
+      "artist": "Courtney Barnett",
+      "has_synced": true,
+      "path": "select/16_Dead_Fox_Courtney_Barnett.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All Dead, All Dead",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/17_All_Dead,_All_Dead_Queen.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "2 More Dead",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/18_2_More_Dead_RJD2.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dead Men Tell No Tales",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/19_Dead_Men_Tell_No_Tales_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Dead Wrong (feat. Eminem)",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/20_Dead_Wrong_(feat._Eminem)_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Dead Wrong RMX (feat. The Notorious B.I.G.)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/21_Dead_Wrong_RMX_(feat._The_Notorious_B.I.G.)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Over My Dead Body",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/22_Over_My_Dead_Body_Drake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dead Leaf",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Dead_Leaf_星野源.txt"
+    }
+  ]
+}
